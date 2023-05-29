@@ -46,3 +46,11 @@ h1{
     gap: 1rem;
     justify-content: center;
 }
+
+.publication-paragraph{
+  text-align: justify;
+}
+
+footer p {
+  text-align: center; color: aliceblue;
+}
